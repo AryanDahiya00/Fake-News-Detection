@@ -1,4 +1,4 @@
-# Fake News Detection Project Report
+# Fake News Detection 
 
 ## Project Overview
 This project implements a machine learning model to detect fake news using natural language processing techniques and a deep learning approach.
@@ -46,12 +46,6 @@ This project implements a machine learning model to detect fake news using natur
 - Gensim
 - Matplotlib
 - Seaborn
-
-## Potential Improvements
-- Experiment with different model architectures
-- Try alternative embedding techniques
-- Increase training epochs
-- Implement more advanced text preprocessing
 
 ## Conclusion
 The project demonstrates a deep learning approach to fake news detection using natural language processing techniques.
